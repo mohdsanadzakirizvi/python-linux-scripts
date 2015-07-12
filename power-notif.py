@@ -19,4 +19,5 @@ def main():
 		status()
 	else :
 		exit()
-main()
+if __name__ == '__main__':
+    main()
